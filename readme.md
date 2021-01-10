@@ -10,7 +10,8 @@
 
 ### Quick preview
 
-![Screenshot gif]()
+![Screenshot gif](https://github.com/scyther/instaClone/blob/main/preview/InstaClone-preview.gif)
+![SignOut Function Preview](https://github.com/scyther/instaClone/blob/main/preview/signOut-InstaClone.gif)
 
 ## ⚡ Features
 
@@ -21,7 +22,7 @@
 
 ## Supported Platforms
 
-- Android ([Download APK]())
+- Android ([Download APK](https://github.com/scyther/instaClone/blob/main/preview/app-arm64-v8a-release.apk))
 
 ## 💻 Technologies
 
