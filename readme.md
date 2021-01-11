@@ -10,8 +10,9 @@
 
 ### Quick preview
 
-![Screenshot gif](https://github.com/scyther/instaClone/blob/main/preview/InstaClone-preview.gif)
-![SignOut Function Preview](https://github.com/scyther/instaClone/blob/main/preview/signOut-InstaClone.gif)
+
+
+![Screenshot gif](/preview/InstaPreview.gif)
 
 ## ⚡ Features
 
@@ -31,6 +32,3 @@
 - [FireBase](https://firebase.google.com/)
 - [Redux](https://redux.js.org/)
 
-## 👋 Contact Me 👋
-
-[![Mail me][gmail_logo]][gmail]
