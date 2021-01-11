@@ -20,7 +20,7 @@
 
 ## Supported Platforms
 
-- Android ([Download APK](https://github.com/scyther/instaClone/blob/main/preview/app-arm64-v8a-release.apk))
+- Android ([Download APK](https://github.com/scyther/instaClone/raw/main/preview/app-arm64-v8a-release.apk))
 
 ## 💻 Technologies
 
