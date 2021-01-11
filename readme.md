@@ -2,9 +2,6 @@
 
 > A social-media app to share photos with other users.
 
-<a href="#preview">Preview</a> •
-<a href="#features">Features</a> •
-<a href="#technologies">Technologies Used</a> •
 
 ## 🔍 Preview
 
